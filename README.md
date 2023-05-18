@@ -5,7 +5,7 @@ Criação de planilhas Excel com Python + openpyxl
 
 # 1° Baixe a pasta do arquivo
 ```
-git clone https://github.com/ANDSANTOS4546/criacao_de_planilhas.git
+git clone https://github.com/olavonobre/criacao_de_planilhas.git
 ```
 
 # 2° Abra o diretorio no seu terminal
