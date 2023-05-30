@@ -43,7 +43,8 @@ print(wb.sheetnames)
 # Escolher pagina para manipular
 selecionar_pagina()
 
-# Insrerir coluna
+# Insrerir coluna 
+#Selecionar as colunas a serem inseridas!
 
 
 
